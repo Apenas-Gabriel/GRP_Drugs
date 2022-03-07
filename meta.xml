@@ -1,0 +1,9 @@
+<meta>
+	<info author="Apenas Gabriel" version="1.0" name="GRP DRUGS" description="Drugs system" type="Drugs System" />
+	<!-- client files -->
+	<script src="Gabriel_C.lua" type="client" />
+	<!-- lang file -->
+	<script src="lang.lua" type="shared" />
+	<!-- Config files -->
+	<script src="config.lua" type="shared" />
+</meta>
